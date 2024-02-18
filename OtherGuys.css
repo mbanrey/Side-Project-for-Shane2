@@ -242,3 +242,47 @@ body {
   color: white;
   box-shadow: 10px 10px gray;
 }
+.service-provided h1 {
+  text-align: center;
+  font-size: 4rem;
+  font-family: "Fredoka", sans-serif;
+  font-style: normal;
+  font-weight: 450;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.col-one {
+  font-size: 1.5rem;
+}
+
+.col-two {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.twenty-off {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.5rem;
+}
+
+.five-off {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.5rem;
+}
+
+.auto-schedule {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.5rem;
+}
