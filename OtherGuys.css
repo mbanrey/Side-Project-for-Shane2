@@ -248,6 +248,10 @@ body {
   font-family: "Fredoka", sans-serif;
   font-style: normal;
   font-weight: 450;
+  
+}
+.service-provided{
+  
 }
 
 .columns {
@@ -258,12 +262,14 @@ body {
 
 .col-one {
   font-size: 1.5rem;
+  /* border: 5px solid black; */
 }
 
 .col-two {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
+  /* border: 5px solid black; */
 }
 
 .twenty-off {
@@ -271,6 +277,7 @@ body {
   text-align: center;
   margin: 0 auto;
   font-size: 1.5rem;
+  /* border: 5px solid black; */
 }
 
 .five-off {
@@ -285,4 +292,7 @@ body {
   text-align: center;
   margin: 0 auto;
   font-size: 1.5rem;
+}
+.money{
+  color: darkcyan;
 }
